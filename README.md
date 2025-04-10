@@ -118,7 +118,7 @@ Bazı hava tipleri oyuncuya etkiler gösterir:
 ## ✨ Geliştirici
 
 **Sadness**  
-Discord: `Sadness#XXXX`  
-GitHub: [github.com/SadnessDev](https://github.com/Sadness_Officall)
+Discord: `Sadness_Officall`  
+GitHub: [github.com/Sadness_Officall](https://github.com/Sadness_Officall)
 
 > Beğendiysen ⭐ bırak, katkı yapmak istersen PR gönder!
