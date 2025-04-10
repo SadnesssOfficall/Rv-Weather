@@ -1,7 +1,7 @@
 Config = {}
 
 Config.SeasonDuration = 28
-Config.WebhookURL = 'https://discord.com/api/webhooks/1358456104996311281/a4SFB8N8z1rsWafae78wkaN3qRhXXT2AIrHa8hYI8ZhIKCtLoJ8RxAjiavr63km8xIrq'
+Config.WebhookURL = 'Webhook Url'
 Config.Debug = true
 
 Config.Notify = {
